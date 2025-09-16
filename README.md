@@ -16,7 +16,8 @@ git clone https://github.com/<ORG>/<REPO>.git
 cd <REPO>
 
 # 작업 후 반영
-git add <파일>     # 또는 .(add . 시 디렉토리의 모든 파일 올라감, 파일은 경로까지 전부 적어주기, 여러 파일 올릴시 띄어쓰기 후 적으면 됨)
+git add <파일>     # 또는 .(add . 시 디렉토리의 모든 파일 올라감, 파일은 경로까지 전부 적어주기,
+# 여러 파일 올릴시 띄어쓰기 후 적으면 됨)
 ex) git add . / git add /src/launch
 git commit -m "<메시지>"
 ex) git commmit -m "first commit"
