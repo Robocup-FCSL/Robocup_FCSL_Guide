@@ -119,3 +119,6 @@ git remote -v
 # 모든 원격 최신화 + 정리
 git fetch --all --prune
 ```
+
+# Command cheatsheet
+* https://www.heropy.dev/p/PcUkdT
